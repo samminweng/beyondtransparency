@@ -138,7 +138,7 @@ As CRM systems and civic apps undergo further development and iteration, we must
 
 Eric Gordon studies civic media, location-based media, and serious games. He is a fellow at the Berkman Center for Internet and Society at Harvard University and an associate professor in the department of Visual and Media Arts at Emerson College where he is the founding director of the Engagement Game Lab (http://engagementgamelab.org), which focuses on the design and research of digital games that foster civic engagement. He is the co-author of Net Locality: Why Location Matters in a Networked World (Blackwell Publishing, 2011) and The Urban Spectator: American Concept Cities From Kodak to Google (Dartmouth, 2010).
 
-Eric Gordon的研究主要在於公共媒體，基於位置的媒體，以及嚴肅遊戲等領域。他擔任哈佛大學的Berkman網路與社會中心的研究員。他也是Emerson學院的視覺與媒體藝術系副教授，同時也創立參與遊戲實驗室（http://engagementgamelab.org），主要設計與研發能促進公民參與的數位遊戲。他共同執筆著作包含有，「網路局部化(Net Locality)：為什麼地點在網絡世界變得重要」（Blackwell Publishing, 2011）以及「市區觀眾：從柯達到Google的美國概念城市」（Dartmouth, 2010）。
+Eric Gordon的研究主要在於公共媒體，基於位置的媒體，以及嚴肅遊戲等領域。他擔任哈佛大學的Berkman網路與社會中心的研究員。他也是Emerson學院的視覺與媒體藝術系副教授，同時也創立參與遊戲實驗室（http://engagementgamelab.org），主要設計與研發能促進公民參與的數位遊戲。他共同執筆著作包含有，"網路局部化(Net Locality)：為什麼地點在網絡世界變得重要"（Blackwell Publishing, 2011）以及"市區觀眾：從柯達到Google的美國概念城市"（Dartmouth, 2010）。
 
 Jessica Baldwin-Philippi is a visiting assistant professor of civic media at Emerson College and a researcher in the Engagement Game Lab. Her work focuses on how engagement with new technologies can restructure forms of political participation and ideas about citizenship, and has covered a variety of political contexts, from political campaigns’ use of social media, to games designed to increase participation, to tools that can mediate relationships between citizens and governmental institutions.
 
