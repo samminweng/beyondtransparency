@@ -128,13 +128,21 @@ The significance of this intervention is three-fold. First, StreetCred context
 
 Civic life is a mass of habits. By enabling moments of civic participation to be collected in ways that are accessible, interoperable, and visible, the open data movement has provided citizens with a way to easily understand these habits and opened up a bounty of new opportunities to simply and flexibly cultivate them. As more and more data is collected and collectable, it is government’s responsibility to create and/or support the systems in which habits are formed and reflected upon.
 
+公民生活就是一大團的習慣。透過啟用公民參與的時刻，讓收集能以可接近的、可互操作的、並且可見的方式進行，開放資料運動提供公民們一種可以輕鬆地了解這些習慣，並且開闢了新的機會，來簡單地且靈活地培養習慣。隨著越來越多的資料變得可收集且富有收藏價值，政府需要建立且/或支持，可以讓習慣成形與反射的系統。
+
 As CRM systems and civic apps undergo further development and iteration, we must move beyond simply designing to make civic actions easy and sustainable. Instead, design choices that encourage reflective civic habits and collaborative and communal participation ought to be the norm. Not only can tools be designed to improve and deepen the civic experience, but their iterations can also set the stage for the development of a more robust culture of open data that extends beyond the civic realm.
+
+由於CRM系統和公民APPs正在進行更進一步的開發和更新，我們必須超越簡單設計，讓公民行動變得方便且可持續發展。相反的，那些鼓勵反思公民習慣以及促進協同與社群參與的設計選項，應該會是常態。這些工具的設計不僅能改進和深化公民經驗，而且他們的下一代更新也建立一個舞台，來發展一個更穩健的、且能夠超越公民領域的開放資料文化。
 
 ### About the Authors
 
 Eric Gordon studies civic media, location-based media, and serious games. He is a fellow at the Berkman Center for Internet and Society at Harvard University and an associate professor in the department of Visual and Media Arts at Emerson College where he is the founding director of the Engagement Game Lab (http://engagementgamelab.org), which focuses on the design and research of digital games that foster civic engagement. He is the co-author of Net Locality: Why Location Matters in a Networked World (Blackwell Publishing, 2011) and The Urban Spectator: American Concept Cities From Kodak to Google (Dartmouth, 2010).
 
+Eric Gordon的研究主要在於公共媒體，基於位置的媒體，以及嚴肅遊戲等領域。他擔任哈佛大學的Berkman網路與社會中心的研究員。他也是Emerson學院的視覺與媒體藝術系副教授，同時也創立參與遊戲實驗室（http://engagementgamelab.org），主要設計與研發能促進公民參與的數位遊戲。他共同執筆著作包含有，「網路局部化(Net Locality)：為什麼地點在網絡世界變得重要」（Blackwell Publishing, 2011）以及「市區觀眾：從柯達到Google的美國概念城市」（Dartmouth, 2010）。
+
 Jessica Baldwin-Philippi is a visiting assistant professor of civic media at Emerson College and a researcher in the Engagement Game Lab. Her work focuses on how engagement with new technologies can restructure forms of political participation and ideas about citizenship, and has covered a variety of political contexts, from political campaigns’ use of social media, to games designed to increase participation, to tools that can mediate relationships between citizens and governmental institutions.
+
+Jessica Baldwin-Philippi是Emerson學院公民媒體訪問助理教授，同時也是在參與遊戲實驗室的研究員。她的工作主要是研究如何結合新技術，來整頓政治參與形式以及修正公民權的觀念，她研究領域已涵蓋了各種政治背景，包含有社交媒體在政治競選活動上的使用，用遊戲來增加政治參與，到可以調解公民和政府機構之間的關係的各種工具等。
 
 ### References
 
