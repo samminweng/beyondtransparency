@@ -31,11 +31,19 @@ permalink: /part-3/generating-economic-value-through-open-data/
 
 The private and public sectors have begun to embrace “big data” and analytics to improve productivity and enable innovation. We have documented the tremendous economic potential that can be unlocked by using the increasing volumes and diversity of real-time data (e.g., social media, road traffic flows) to make better decisions in a wide variety of sectors, from healthcare to manufacturing to retail to public administration (Manyika et al., 2011).
 
+公領域與私領域都已經開始擁抱巨量資料與分析，以提高生產力以及實現創新。我們已經證明，從醫療保健、製造業、零售業到公共行政部門等各式各樣的部門間，可以透過提高即時資料的數量與多樣性 (比如社群媒體或是道路交通流量)，來做出更好的決策，而巨大的經濟發展淺力也將被解鎖 (Manyika et al., 2011)。
+
 Open data—governments and other institutions making their data freely available—plays an important role in maximizing the benefits of big data. Open data enables third parties to create innovative products and services using datasets such as transportation data, or data about medical treatments and their outcomes, that are generated in the course of providing public services or conducting research. This is a trend that is both global—in less than two years, the number of national governments that have become members of the Open Government Partnership has increased from a founding eight to more than fifty—and local; state/provincial, and municipal governments, including New York, Chicago, and Boston, have begun to “liberate” their data through open data initiatives.
+
+開放資料---政府與其他機構讓他們的資料可以免費查看或下載--在最大化巨量資料的效益上，扮演了一個很重要的角色。開發資料讓第三方能夠接觸到一些數據庫，比如運輸資料、醫療護理資料，或是其他在公共服務或是研究進行過程中，所產生出來的成果，利用這些資料，來開發創新產品與服務。這是一個全球化的趨勢---兩年之間，參加開放政府聯盟(Open Government Partnership)的政府數量已經從草創期的8個，增加到操過50個---而且地區性、省/州或城市等級的政府，包含紐約、芝加哥、波士頓，都已經開始透過開放資料協議，來"解放"他們的資料。
 
 Some of the key motivations for open data initiatives are to promote transparency of decision-making, create accountability for elected and appointed officials, and spur greater citizen engagement. In addition, however, it is increasingly clear that open data can also enable the creation of economic value beyond the walls of the governments and institutions that share their data. This data can not only be used to help increase the productivity of existing companies and institutions, it also can spur the creation of entrepreneurial businesses and improve the welfare of individual consumers and citizens.
 
+起草開放資料協議的關鍵動機，是為了增加決策的透明度，建立問責制(Accountability)，對被選舉與任命的政務官可追究其責任，並促成更大的公民參與。除此之外，開放資料能夠創造經濟價值，而這價值往往超越分享資料的政府與機構的想像。這些數據不僅能夠用來提高現在公司與機構的生產效率，還可以帶動創業型企業的發展，以及提高消費者與公民的福利。
+
 McKinsey & Company is engaged in ongoing research to identify the potential economic impact of open data, the findings from which will be published in the fall of 2013. In this piece, we would like to share some of our preliminary hypotheses from this work, including examples from our research into open data in healthcare (See “The ‘Big Data’ revolution in healthcare,” McKinsey Center for US Healthcare Reform and Business Technology).
+
+Mckinsey & Company公司正在持續進行研究，找出開放資料潛在的經濟影響，而研究成果將於2013年秋季發表。針對這塊，我們想要分享一些我們從這份研究得到一些初步假設，包括有我們在醫療照護開放資料研究的例子(見"巨量資料"在醫療照護上的革命，McKinsey美國醫療照護改革與商業科技中心)
 
 ### Definitions
 
