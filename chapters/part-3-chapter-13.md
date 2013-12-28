@@ -46,6 +46,7 @@ McKinsey & Company is engaged in ongoing research to identify the potential econ
 Mckinsey & Company公司正在持續進行研究，找出開放資料潛在的經濟影響，而研究成果將於2013年秋季發表。針對這塊，我們想要分享一些我們從這份研究得到一些初步假設，包括有我們在醫療照護開放資料研究的例子(見"巨量資料"在醫療照護上的革命，McKinsey美國醫療照護改革與商業科技中心)
 
 ### Definitions
+定義
 
 It’s helpful to first clarify what we mean by open data. We use four criteria to define open data:
 
@@ -53,10 +54,22 @@ It’s helpful to first clarify what we mean by open data. We use four criteria 
 * Machine-readable. Data must be useable, which means it must be made available in formats that are easily used in third-party applications.
 * Free. Zero or low costs for data access aid openness.
 * Unrestricted rights to use. Data that is unencumbered by contractual or other restrictions leads to the maximum potential of innovation.
+ 
+首先，清楚地定義我們所謂的開放資料是有幫助的。我們用四項標準來定義開放資料:
+
+* 對所有人開放。這是最關鍵的標準 - 讓這些資料可以在生成或收集它的機構之外，變得開放、可存取的。
+* 可程式化。資料必須是可用的，這意味著它必須提供制式的格式，方便第三方應用程式的使用。
+* 免費。幾乎零或很低的資料存取成本，以協助資料的開放性。
+* 無限制的使用權。運用無產權負擔或限制的資料，會引發出最大的創新潛力。
+
 
 However, we also recognize that these are the ideals of “openness” and there is still significant value in making data more widely available, even if its use is not completely unrestricted. For example, the US Centers for Medicare & Medicaid Services (CMS) has released some health-care claims data, but only for use by qualified medical researchers, and with strict rules about how the data can be used. Nevertheless, providing this data outside of CMS multiplies the amount of value it can create. Similarly, there is great variation in the degree to which data can be considered machine-readable. Data in proprietary formats is machine-readable, but is less useful than data in open-standard formats, which do not require licenses to use and are not subject to change with format updates decided by a single vendor. And while a strict definition of open data requires zero cost for data access, some institutions have chosen to charge a fee for accessing data, still providing considerable value.
 
+然而，我們也體認到，這些都是“開放”的理想志向，而且讓資料變得更廣泛開放，還有一個重要的價值，即使這些資料的使用上並不是完全不受限制。例如，美國醫療保險和醫療補助服務中心（CMS）雖然公佈了一些醫療理賠資料，但僅提供給合格的醫學研究人員使用，而且在資料的使用上還有嚴格的規定。然而，提供這些資料給CMS以外的單位使用，就可以倍增它原先可以創造的數量。相同地，在認定哪些資料是可程式化上，也存在很大的差異。雖然有專利權的資料格式是可程式化，但是相對於符合開放標準格式的資料，卻顯得比較沒有用，這是因為開放資料不需要任何許可就可以使用，另外，其格式也不因為某一供應商的格式變更而改變。嚴格來說，存取開放資料是不需要付任何成本，儘管有些機構還是對其資料的存取收取一定的費用，但是這些資料也提供相當的價值。
+
 Very closely related to this definition of open data is the concept of “my data,” which involves supplying data about individuals or organizations that has been collected about them. In the United States, the “Blue Button” encourages healthcare providers to give patients access to their health information (see www.bluebuttondata.org). Similarly, the “Green Button” program encourages energy providers to give consumers access to energy usage information such as data collected by smart meters (see www.greenbuttondata.org). In “my data” applications, information is not made accessible to all, but only to the person or organization whose activities generated the data. These users can opt in to make their data available to other service providers (e.g., a service that analyzes energy consumption and suggests ways in which to improve energy efficiency).
+
+非常接近這個開放資料的定義是"我的資料"，這概念涉及到提供個人資料，或那些已經在收集個人資料的組織。在美國，"藍色按鈕"計畫鼓勵醫療照顧提供者，讓病人可以獲取他們的健康資訊 (見www.bluebuttondata.org)。另外，"綠色按鈕"計畫鼓勵能源供應商，讓其客戶可以取得電力使用量資料，如由智慧電表收集到的資料 (見www.greenbuttondata.org)。但是"我的資料"這個APP，並不對所有的人開放所有的資訊，而僅限於個人使用，或是哪些生成這些資料為主的組織。但是APP使用者便可選擇，是否要將他們資料提供給其他的服務供應商 (例如，藉由分析電力使用量，並提供建議來提高能源使用效率的服務)
 
 ### Why Now?
 
