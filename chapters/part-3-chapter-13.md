@@ -46,7 +46,7 @@ McKinsey & Company is engaged in ongoing research to identify the potential econ
 Mckinsey & Company公司正在持續進行研究，找出開放資料潛在的經濟影響，而研究成果將於2013年秋季發表。針對這塊，我們想要分享一些我們從這份研究得到一些初步假設，包括有我們在醫療照護開放資料研究的例子(見"巨量資料"在醫療照護上的革命，McKinsey美國醫療照護改革與商業科技中心)
 
 ### Definitions
-定義
+### 定義
 
 It’s helpful to first clarify what we mean by open data. We use four criteria to define open data:
 
@@ -72,12 +72,20 @@ Very closely related to this definition of open data is the concept of “my dat
 非常接近這個開放資料的定義是"我的資料"，這概念涉及到提供個人資料，或那些已經在收集個人資料的組織。在美國，"藍色按鈕"計畫鼓勵醫療照顧提供者，讓病人可以獲取他們的健康資訊 (見www.bluebuttondata.org)。另外，"綠色按鈕"計畫鼓勵能源供應商，讓其客戶可以取得電力使用量資料，如由智慧電表收集到的資料 (見www.greenbuttondata.org)。但是"我的資料"這個APP，並不對所有的人開放所有的資訊，而僅限於個人使用，或是哪些生成這些資料為主的組織。但是APP使用者便可選擇，是否要將他們資料提供給其他的服務供應商 (例如，藉由分析電力使用量，並提供建議來提高能源使用效率的服務)
 
 ### Why Now?
+### 現在正是最好的時機
 
 It’s also worth considering why the open data movement is gathering momentum. First, the amount and variety of valuable data that is being generated and collected by institutions has exploded: transaction data produced by government, sensor data collected from the physical world, and regulatory data collected from third parties such as transportation carriers or financial institutions. Secondly, the ability to process large, real-time, diverse streams of data has been improving at an exponential rate, thanks to advances in computing power. Today, a smartphone has sufficient processing power to beat a grandmaster at chess.
 
+開放資料運動正不斷擴大中，而其中原因如下。首先，由各個機構所產生與收集到有價值的資料，其數量與種類已經多到爆炸: 包含有政府所生成的交易資料、從實體環境中收集到的傳感器(sensor)資料、以及從第三方(如運輸貨運商或金融機構)所收集到的法規資料。其次，處理大型、即時、多樣化資料的能力，正以指數速度不斷提高，這得要歸功於電腦運算能力的進步。現在連智慧手機都已經有足夠的運算能力，去擊敗一位西洋棋大師。
+
 Equally important, there are institutional forces accelerating the adoption of open data initiatives. Both within and especially outside of government, decision makers are demanding more precise and timely insights, supported by data and experimentation (e.g., running controlled experiments on the web or in the real world to determine how people will actually behave). At the same time, governments are under pressure to become more transparent, while simultaneously doing more with less due to fiscal constraints. The financial pressure also compels governments to look for economic growth and innovation, which could be catalyzed by new businesses based on open data.
 
+同樣重要的是，也有體制的力量加速採用開發資料的協議。政府內部以及，尤其是政府外部的決策者，都需要具備更準確且即時的洞察力，而這能力則是由資料與實驗來支持 (例如，在網際網路上，執行對照實驗，以確定人們在現實世界將會如何反應)。另外，在各國政府受到壓力變得更透明的同時，由於受到財政限制，政府單位便自動自發地減少支出而多做事。這樣的財政壓力也迫使政府單位，藉由基於開放資料而催生出來的新事業體，來尋求經濟成長動能與創新。
+
+
 Finally, there is a social benefit: open data can democratize information, as more individuals gain access to their own data through my data initiatives, and people with programming skills gain access to more datasets. Individuals can develop applications that use open data, reflecting their interests, rather than relying on data services provided by large organizations.
+
+最後，還有一個社會效益：開放資料可以將資訊民主化，因為有越來越多的人，可以透過"我的資料"協議，存取他們自己的資料；另外，擁有程式技能的人，更可以取得較多的資料集。每個人都可以開發APP，去使用開放資料、反映她們的利益，而不是僅依賴於由大型機構所提供的資料服務。
 
 ### How Open Data Creates Economic Value
 
