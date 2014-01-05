@@ -89,29 +89,55 @@ Finally, there is a social benefit: open data can democratize information, as mo
 
 ### How Open Data Creates Economic Value
 
+### 開放資料如何創造經濟價值
+
 Our emerging hypothesis is that the effective use of open data can unlock significant amounts of economic value. For example, in US healthcare, we found that more than $300 billion a year in value potentially could be created through the use of more open data, e.g., through the analysis of open data to determine which therapies are both medically effective and cost-efficient. We also recognize that access to data alone does not unlock value. In healthcare, many systemic reforms need to be in place before data-enabled innovations such as large-scale analyses of comparative effectiveness and genetically tailored therapies can achieve their maximum potential. Yet, if reforms are in place, truly transformative changes in the healthcare system can result. We believe similar changes can occur in many other domains.
+
+一個浮現中的假設是，有效地使用開放資料，可以創造顯著的經濟價值。例如，在美國醫療保健中，我們發現到使用更多種類的開放資料，能夠創造一年3,000億美元潛在的價值。例如，我們透過開放資料的分析結果，來找出哪些治療方法，既是有醫療效果、又可以符合成本效益的。我們也體認到，資料的取得本身並不能建立價值。在醫療領域中，有許多系統的改革必須先到位，才能發揮資料創新應用(大規模的比較效益評估或基因定性療法)的最大潛能。如果這些改革能對醫療系統產生具有變革性的變化。我們相信，類似的變化也可以發生在其他的領域上。
 
 So what are some of the archetypes for value creation that we discovered? Building on our big data research, we see five common ways in which the use of open data can unlock value.
 
+那麼，價值創造的原形是什麼? 根據我們的巨量資料的研究，使用開放資料解鎖價值，有下列五種的常見方式。
+
 #### Transparency
+
+#### 透明度
 
 In many cases, we find that decisions are made without access to relevant data. Simply providing data to the right decision maker at the right moment can be a huge win. For example, most patients and primary care physicians have limited knowledge about how well different hospitals do in various types of surgery or how much different providers charge for a particular procedure. When such data exists—and is provided in a usable format—the resulting transparency can lead to better decisions. In our study of US healthcare, we estimate that ensuring that patients go to the right care setting (e.g., the one with the best record of outcomes and the best costs) could unlock $50 to $70 billion in annual value.
 
+我們發現到，許多決策的制定，都是在沒有獲取相關資料的情況下完成的。所以，僅僅只要在對的時間，將資料提供給對的決策者，就可以是一個巨大的勝利。例如，對於每間醫院擅長的手術種類，或是針對一個特定的程序供應商所收取的費用差異，大多數患者和初級保健醫生都僅有部分的了解。當這樣的資料存在--以一種可用的格式提供給他人使用--這樣所生成的透明度可以產生更好的決策。在我們的美國醫療保健研究中，確保患者能去對的醫護環境(例如，一間有最好的成果與最低的成本的醫院)，可以每年產生500億至700億美元的價值。
+
 #### Exposing Variability and Enabling Experimentation
+
+#### 發現變異並啟用實驗
 
 Closely related to transparency is the concept of exposing variability in processes and outcomes, then using experimentation to identify the drivers of that variability. For example, open data can be used to expose the variability in improving student achievement across various schools or school districts. When this information is made transparent, it creates incentives to improve educational outcomes. In addition to simply exposing differences in performance, open data can be used to design and analyze the outcomes of purposeful experimentation to determine which organizational or teaching techniques raise student achievement.
 
+一個跟透明度密切相關的概念，是在過程與結果中發現變異後，然後利用實驗來找出這個變異的原因。例如，開放資料可以用來發掘出，不同學校或學區提升學生成績方法的差異。當這些資訊變得透明時，它會創造激勵，以提升教育成果。除了歇露績效上的差異外，開放資料還可用於設計和分析實驗的結果，以確定哪些結構式的或教學式的方法可以提高學生的成績。
+
 #### Segmenting Populations to Tailor Actions
+
+#### 區隔人群以量身定制行動
 
 Open data can also be used to ensure that individuals and organizations receive the products and services that best meet their needs. There is an old saying in marketing that we know that half of marketing spending is wasted, but we don’t know which half. Open data can sometimes help marketers find the additional insights that can make their efforts more effective. For example, a provider of rooftop solar panels could narrow its targeted offers to customers who both have sufficient roof area, and sufficient solar exposure by using aerial imagery and weather data available from public sources.
 
+開放資料也可以用於確保個人和組織可以得到最滿足他們需求的產品與服務。在行銷學上，有句老話是說，我們知道有一半的行銷費用是被浪費了，但我們不會不知道是哪一半。開放資料有時可以幫助行銷人員找到新想法，來使他們的努力可以更加有效。例如，屋頂的太陽能電池板供應商可能會利用航空影像與從公開資訊取得的氣象資料，來找出哪些客戶擁有足夠的屋頂面積與足夠的日照時間，以縮減它目標客戶群的範圍。
+
 #### Augmenting and/or Automating Human Decision-Making
+
+#### 充實和/或自動化人類決策
 
 Open data can be used to augment the data that is being analyzed to improve or automate decision-making. We know from research in behavioral economics and other fields that human decision-making is often influenced by cognitive biases. Furthermore, our minds are limited in the number of data points we can process. Advanced analytical techniques can help overcome these limitations. For example, researchers only identified the cardiovascular risks of COX-2 inhibitors (a class of anti-inflammatory drugs) after analyzing data on millions of individual doses. In some cases, data can be used to make real-time decisions automatically. For example, by combining data from embedded sensors with open data traffic information, it is possible to create systems that automatically adjust the timing of traffic signals to relieve congestion.
 
+開放資料可以用於增加分析的資料，以改善或自動化決策。我們從行為經濟學等領域的研究知道，人類的決策往往會受到認知偏差的影響。此外，人類的腦袋只能夠處理有限的資料數量。先進的分析技術可以幫助人類克服這些限制。例如，研究人員要分析上百萬個人的劑量資料後，才能夠確定COX-2抑製劑(一種消炎藥)的使用會不會對心血管有風險。在某些情況下，資料可以用來自動化即時決策過程。例如，結合遷入式感測器的資料以及公開的交通資訊，就可以建立一個能自動地調整交通號誌亮燈時間的系統，來紓緩交通擠塞情形。
+
 #### Creating New Products, Services and Business Models
 
+#### 建立新產品、服務與商業模式
+
 Some of the most exciting applications of open data come about when it is used to create new products and services by existing companies, or to create entirely new businesses. For example, in 2012, more than two hundred new applications of open health-care data were submitted to the US Health Data Initiative Forum. One submission, from a startup called Asthmapolis, combines usage data from sensors on asthma medicine inhalers with open environmental data (e.g., pollen counts and data on other allergens) to develop personalized treatment plans for patients with asthma.
+
+最令人興奮的開放資料應用，就是當現有的企業運用開放資料，來創建新的產品與服務，或者建立全新的公司。例如在2012年，有超過兩百個有關於開放醫療保健的應用，上傳到美國衛生資料倡議論壇。其中一個由Asthmapolis新創公司建立的新應用，則是結合來自氣喘藥吸入器感測資料與開放的環境數據(如花粉數和其他過敏原資料)，以針對每個氣喘病患制定個人化的治療計畫。
 
 ### Enablers to Create Economic Value
 
